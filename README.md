@@ -1,20 +1,19 @@
 # webbtutveckling1
 
 Instruktioner: 
-1. Klicka på **Clone or download** och välj sedan **Download ZIP**
-2. Öppna index.html i din editor (ex. Visual Studio Code).
-1. Skapa ett HTML-dokument i VS Code, d.v.s en tom fil med filändelsen .html
-2. Skriv in grundkoden för en html-sida:
-`<!DOCTYPE html>
-<html lang="sv">
-    <head>
-    <meta charset="utf-8">
-    <title>Sidan titel/title>
-    </head>
-<body>
-    <!-- Här lägger jag mitt innehåll--> 
-</body>
-</html>`
+1. Skapa filen index.html i din editor (ex. Visual Studio Code).
+1. Kopiera in grundkoden för en htmlsida i index.html
+
+`<!DOCTYPE html>`
+`<html lang="sv">`
+    `<head>`
+    `<meta charset="utf-8">`
+    `<title>Sidan titel/title>`
+    `</head>`
+`<body>`
+    `<!-- Här lägger jag mitt innehåll--> `
+`</body>`
+`</html>`
 3. Lägg in innehållet innanför body-taggen och strukturera html-dokumentet genom att märka 
 upp varje del med lämplig html-tagg.
 
