@@ -13,23 +13,25 @@
 <body>
     <!-- Här lägger jag mitt innehåll--> 
 </body>
-
 ```
 3. Lägg in receptet innanför body-taggen och strukturera html-dokumentet genom att märka 
 upp varje del med lämplig html-tagg.
 
 Rekommenderade taggar för detta dokument: 
-
-'<h1> - <h4>`           Rubriker och underrubriker
-`<p>`                   Textstycke
-`<strong>`              Stark betonad text (fetstil)
-`<em>`                  Viktig text (kursiv) 
-`<a href="#">Länk</a>`  Länk där adressen skrivs i #
-`<img src="bild.jpg>`   Bild
-`<ul>`                  Oordnad lista
-`<ol>`                  Ordnad lista
+```html
+<h1> - <h4>            Rubriker och underrubriker
+<p>                    Textstycke
+<strong>`              Stark betonad text (fetstil)
+<em>`                  Viktig text (kursiv) 
+<a href="#">Länk</a>`  Länk där adressen skrivs i #
+<img src="bild.jpg>`   Bild
+<ul>
+     <li></li>
+     <li></li>
+</ul>                 Oordnad lista
+<ol>                  Ordnad lista
+```
  
-
 **Receptet:**
 
 Andalusian Gazpacho Recipe
