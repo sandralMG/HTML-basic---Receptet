@@ -1,6 +1,5 @@
-# webbtutveckling1
+# Instruktioner för uppgift HTML Receptet
 
-Instruktioner: 
 1. Skapa filen index.html i din editor (ex. Visual Studio Code).
 1. Kopiera in grundkoden för en htmlsida i index.html
 
@@ -21,20 +20,16 @@ upp varje del med lämplig html-tagg.
 
 Rekommenderade taggar för detta dokument: 
 
-'<h1> - <h4>`          Rubriker och underrubriker
+'<h1> - <h4>`           Rubriker och underrubriker
 `<p>`                   Textstycke
 `<strong>`              Stark betonad text (fetstil)
 `<em>`                  Viktig text (kursiv) 
 `<a href="#">Länk</a>`  Länk där adressen skrivs i #
 `<img src="bild.jpg>`   Bild
-`<ul>                  Oordnad lista
-    <li>Punkt 1</li>
-    <li>Punkt 2</li>
-</ul>`
-`<ol>                  Ordnad lista
-    <li>Punkt 1</li>
-    <li>Punkt 2</li>
-</ol>`
+`<ul>`                  Oordnad lista
+`<ul>`                  Oordnad lista
+`<ol>`                  Ordnad lista
+ 
 
 **Receptet:**
 
