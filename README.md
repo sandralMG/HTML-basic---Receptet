@@ -1,4 +1,4 @@
-# Instruktioner för uppgift HTML Receptet
+# Instruktioner för HTML Receptet
 
 1. Skapa filen index.html i din editor (ex. Visual Studio Code).
 1. Kopiera in grundkoden för en htmlsida i index.html
@@ -23,12 +23,15 @@ Rekommenderade taggar för detta dokument:
 <p>                    Textstycke
 <strong>`              Stark betonad text (fetstil)
 <em>`                  Viktig text (kursiv) 
-<a href="#">Länk</a>`  Länk där adressen skrivs i #
-<img src="bild.jpg>`   Bild
+<a href="#">Länk</a>   Länk där adressen skrivs i #
+<img src="bild.jpg>    Bild
 <ul>
      <li></li>
      <li></li>
 </ul>                 Oordnad lista
+<ol> 
+   <li></li>
+   <li></li>
 <ol>                  Ordnad lista
 ```
  
