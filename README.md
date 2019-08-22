@@ -27,7 +27,6 @@ Rekommenderade taggar för detta dokument:
 `<a href="#">Länk</a>`  Länk där adressen skrivs i #
 `<img src="bild.jpg>`   Bild
 `<ul>`                  Oordnad lista
-`<ul>`                  Oordnad lista
 `<ol>`                  Ordnad lista
  
 
